@@ -60,3 +60,8 @@ target/
 
 #Ipython Notebook
 .ipynb_checkpoints
+
+# update scripts
+upload.sh
+upload.log
+date.log
